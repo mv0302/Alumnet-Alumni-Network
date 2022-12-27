@@ -1,0 +1,45 @@
+.contain2 {
+    height: 100%;
+    min-height: 10vh;
+    width: 100%;
+    background: linear-gradient(to right, #9900ff, #cc80ff);
+    /* display: flex; */
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .innerBox2 {
+    min-width: 100%;
+    min-height: 100%;
+    height: fit-content;
+    width: fit-content;
+    /* background-color: #fff; */
+    color: #fff;
+    background: linear-gradient(to right, #9900ff, #cc80ff);
+    /* box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2); */
+    padding: 20px;
+    /* border-radius: 10px; */
+    display: flex;
+    flex-direction: column;
+  }
+
+  .vit{
+    height: 100%;
+    width: 100%;
+  }
+
+  .btn3{
+    outline: none;
+    border: none;
+    background-color: #9900ff;
+    color: #fff;
+    /* border-radius: 5px; */
+    font-weight: bold;
+    font-size: 1.5rem;
+    padding: 10px 16px;
+    text-align: center;
+    width: fit-content;
+  transform: translateX(550%);
+    transition: 100ms;
+    cursor: pointer;
+  }

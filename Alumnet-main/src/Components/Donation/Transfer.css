@@ -1,0 +1,23 @@
+.form-group {
+    text-align: center;
+}
+
+.form-group {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.btn2{
+    outline: none;
+    border: none;
+    background-color: #9900ff;
+    color: #fff;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 1.5rem;
+    padding: 10px 16px;
+    width: fit-content;
+    height: fit-content;
+    transition: 100ms;
+    cursor: pointer;
+}
