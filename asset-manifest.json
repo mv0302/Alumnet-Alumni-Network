@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Alumnet-Alumni-Network/static/css/main.07a21045.css",
+    "main.js": "/Alumnet-Alumni-Network/static/js/main.51f8e8f0.js",
+    "static/js/787.7ad14ac9.chunk.js": "/Alumnet-Alumni-Network/static/js/787.7ad14ac9.chunk.js",
+    "static/media/vit.jpeg": "/Alumnet-Alumni-Network/static/media/vit.43fd884f380dccdeeb50.jpeg",
+    "static/media/logo2.jpg": "/Alumnet-Alumni-Network/static/media/logo2.68fb43b320d1e33284bd.jpg",
+    "static/media/Logo.png": "/Alumnet-Alumni-Network/static/media/Logo.6c3a46a138447d083391.png",
+    "static/media/call.png": "/Alumnet-Alumni-Network/static/media/call.52ea83beb9236ad0af0c.png",
+    "index.html": "/Alumnet-Alumni-Network/index.html",
+    "main.07a21045.css.map": "/Alumnet-Alumni-Network/static/css/main.07a21045.css.map",
+    "main.51f8e8f0.js.map": "/Alumnet-Alumni-Network/static/js/main.51f8e8f0.js.map",
+    "787.7ad14ac9.chunk.js.map": "/Alumnet-Alumni-Network/static/js/787.7ad14ac9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07a21045.css",
+    "static/js/main.51f8e8f0.js"
+  ]
+}
