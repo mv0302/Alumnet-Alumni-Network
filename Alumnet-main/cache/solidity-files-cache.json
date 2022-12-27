@@ -6,7 +6,7 @@
       "contentHash": "403a6f5ce2cc177564e27b4f6857b9a5",
       "sourceName": "contracts/Token.sol",
       "solcConfig": {
-        "version": "0.8.17",
+        "version": "0.8.9",
         "settings": {
           "optimizer": {
             "enabled": false,
@@ -43,7 +43,7 @@
       "contentHash": "4ff3cd2f6272c9a6516e9ee4f2b967d3",
       "sourceName": "hardhat/console.sol",
       "solcConfig": {
-        "version": "0.8.17",
+        "version": "0.8.9",
         "settings": {
           "optimizer": {
             "enabled": false,
